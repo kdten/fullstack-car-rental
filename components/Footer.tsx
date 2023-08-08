@@ -4,8 +4,6 @@ import Link from "next/link";
 
 import { footerLinks } from "@/constants";
 
-import CustomButton from "./CustomButton";
-
 const Footer = () => {
   return (
     <footer className="flex flex-col text-black-10 mt-5 border-t border-gray-100">
